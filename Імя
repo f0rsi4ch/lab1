@@ -1,0 +1,4 @@
+first_name = input("Введіть ім'я: ")
+last_name = input("Введіть прізвище: ")
+
+print("Hello,", last_name, first_name)
